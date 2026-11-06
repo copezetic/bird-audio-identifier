@@ -1,0 +1,3 @@
+birdnetlib
+soundfile
+scipy
