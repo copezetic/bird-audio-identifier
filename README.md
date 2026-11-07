@@ -2,6 +2,10 @@
 
 An always-on Raspberry Pi with a USB microphone that identifies wildlife by sound and logs it live. It records 15-second clips, runs them through the open-source BirdNET model, and posts confident detections to a web API that a dashboard reads.
 
+<a href="https://copezetic.github.io/bird-audio-identifier/media/red-fox-radio.mp4"><img src="media/red-fox-radio.gif" width="420" alt="Red Fox Radio video"></a>
+
+**[Watch the video with sound](https://copezetic.github.io/bird-audio-identifier/media/red-fox-radio.mp4).** This is Red Fox Radio, the dashboard this listener feeds, and its Logbook. Each bird the microphone hears lands in a painted scene, and the Blue Jay call in the video is the deck mic's own recording. Figures are from 2026-09-22. The owl count at the top of the Logbook is inflated by sirens, which is explained below.
+
 I direct this work through Claude Code and own the design, testing and upkeep.
 
 ## What it shows
